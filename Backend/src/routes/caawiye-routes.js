@@ -6,7 +6,7 @@ import {
   getCaawiyeById,
   registerCaawiye,
   updateCaawiye,
-} from "../controllers/caawiye-controller.js";
+} from "../../controllers/caawiye-controller.js";
 
 const router = express.Router();
 
